@@ -4,7 +4,7 @@
 
 [**个人开发主页**](http://ablazeice.cn)
 
-![](http://ablazeice.cn/foodOrder/images/bg.jpg)
+![](http://tupian.qqjay.com/u/2016/0806/2_135239_2.jpg)
 
 `System.out.println("Hello World");`
 
