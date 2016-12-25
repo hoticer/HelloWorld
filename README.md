@@ -1,6 +1,6 @@
 # HelloWorld
 
-*Modify GitHub from git.*
+*Pull to Git.*
 
 [**个人开发主页**](http://ablazeice.cn)
 
