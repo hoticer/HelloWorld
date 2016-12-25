@@ -1,6 +1,6 @@
 # HelloWorld
 
-*Pull to Git.*
+*Push GitHub From Git Secondly.*
 
 [**个人开发主页**](http://ablazeice.cn)
 
