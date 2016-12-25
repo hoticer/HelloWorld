@@ -1,6 +1,6 @@
 # HelloWorld
 
-*Test GitHub firstly.*
+*Modify GitHub from git.*
 
 [**个人开发主页**](http://ablazeice.cn)
 
