@@ -4,7 +4,7 @@
 
 [**个人开发主页**](http://ablazeice.cn)
 
-![](https://github.com/hoticer/HelloWorld/hello.jpeg)
+![](https://github.com/hoticer/HelloWorld/blob/master/hello.jpeg)
 
 `System.out.println("Hello World");`
 
