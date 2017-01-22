@@ -1,6 +1,6 @@
 # HelloWorld
 
-*Push GitHub From Git Secondly.*
+*Push GitHub From Git Thirdly.*
 
 [**个人开发主页**](http://ablazeice.cn)
 
